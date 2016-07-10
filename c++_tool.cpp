@@ -146,7 +146,7 @@ else if(argv[1]==s7)
 
 }
 else if(argv[1]==s8)
-{long int sum;
+{long int sum=0;
     bool valid=true;
     char* p[100];
     for(int i=2;i<argc;i++)
