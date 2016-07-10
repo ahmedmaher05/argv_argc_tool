@@ -6,20 +6,20 @@ ilustration : read the code , its too simple :)
 
 examples : 
 
-- Command Line: a1.exe print third year students are honest and clever
-Expected output: third year students are honest and clever
+- Command Line: a1.exe print my name is ahmed
+Expected output: my name is ahmed
 
 
 - Command Line: a1.exe reverse Cats love rabbits but rabbits hate cats
 Expected output: cats hate rabbits but rabbits love cats
 
-- Command Line: a1.exe upper cairo university
-Expected output: CAIRO UNIVERSITY
+- Command Line: a1.exe upper i luv programming
+Expected output: I LUV PROGRAMMING
 
-- Command Line: a1.exe shue structure
+- Command Line: a1.exe shuuffle structure
 Expected output: tsurtcrue
 
-- Command Line: a1.exe shueStatement Egypt has goodies
+- Command Line: a1.exe shuffleStatement Egypt has goodies
 Expected output: has Egypt goodies
 
 - Command Line: a1.exe delete 3 12 5 good 3 nice
@@ -37,6 +37,6 @@ Expected output: 8 2 10 3 10 1 7 8 7 1
 
 - ERROR Handling
  number of arguments shall be checked for , the follwing error messages are used :
- Undened Command
+ Undefined Command
  Incorrect Number of Arguments
  Incorrect Data Type
