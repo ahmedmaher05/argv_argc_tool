@@ -2,7 +2,7 @@ this simple code illustrates the basics of using argv/argc in c++ as a simple UI
 
 objective ( print - reverse - upper - shuffleWord-shuffleStatement - delete - middle - add - random ) along with some simple error handling 
 
-ilustration : read the code , its too simple :) 
+ilustration : read the code , it's too simple :) 
 
 examples : 
 
